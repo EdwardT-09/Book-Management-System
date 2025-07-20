@@ -1,0 +1,33 @@
+9781451673319, Ray Bradbury, Fahrenheit 451, Simon & Schuster, Science Fiction, 1953, 08-06-2018, read
+9780812550702, Orson Scott Card, Ender's Game, Tor Books, Science Fiction, 1985, 19-07-2016, read
+9780385513227, Dan Brown, The Da Vinci Code, Doubleday, Fiction, 2003, 30-01-2021, to-read
+9780765365279, Brandon Sanderson, The Way of Kings, Tor Books, Fantasy, 2010, 17-12-2015, read
+9780451526342, George Orwell, Animal Farm, Signet Classics, Fiction, 1945, 17-08-2018, read
+9780684801223, Ernest Hemingway, The Old Man and the Sea, Scribner, Classics, 1952, 09-12-2017, to-read
+9780747532743, J.K. Rowling, Harry Potter and the Philosopher's Stone, Bloomsbury, Young Adult, 1997, 26-03-2020, to-read
+9780060850524, Aldous Huxley, Brave New World, Harper Perennial, Science Fiction, 1932, 08-05-2019, read
+9780451524935, George Orwell, 1984, Signet Classics, Fiction, 1949, 22-07-2017, to-read
+9781594631931, Khaled Hosseini, The Kite Runner, Riverhead Books, Fiction, 2003, 11-09-2017, to-read
+9780307454546, Stieg Larsson, The Girl with the Dragon Tattoo, Vintage Crime/Black Lizard, Mystery, 2005, 20-12-2018, to-read
+9781953649805, Mark Twain, The Adventures of Huckleberry Finn, Harper Perennial, Classics, 1884, 15-11-2015, to-read
+9781441341709, Jane Austen, Pride and Prejudice, Penguin Classics, Classics, 1813, 02-09-2019, to-read
+9780345418913, Douglas Adams, The Hitchhiker's Guide to the Galaxy, Del Rey, Science Fiction, 1979, 07-04-2015, read
+9780062018205, Dan Ariely, Predictably Irrational, Harper Collins, Psychology, 2010, 03-06-2019, read
+9780060935467, Harper Lee, To Kill a Mockingbird, Harper Perennial Modern Classics, Classics, 1960, 05-10-2022, to-read
+9780441013593, Frank Herbert, Dune, Del Rey, Science Fiction, 1965, 28-09-2022, to-read
+9780547928227, J.R.R. Tolkien, The Hobbit, HarperCollins, Fantasy, 1937, 10-07-2023, to-read
+9780307588371, Gillian Flynn, Gone Girl, Broadway Books, Mystery, 2012, 16-08-2019, read
+9780553103540, J.R.R. Martin, A Game of Thrones, Bantam, Fantasy, 1996, 11-06-2020, read
+9781407230023, Philip K. Dick, Do Androids Dream of Electric Sheep?, Del Rey, Science Fiction, 1968, 07-09-2016, to-read
+9780061128363, Ken Kesey, One Flew Over the Cuckoo's Nest, Penguin Classics, Classics, 1962, 20-03-2019, read
+9780063081918, Neil Gaiman, American Gods, William Morrow, Fantasy, 2001, 14-11-2017, to-read
+9780385490818, Margaret Atwood, The Handmaid's Tale, Anchor Books, Dystopian Fiction, 1985, 05-08-2020, read
+9781950435104, Arthur Conan Doyle, The Adventures of Sherlock Holmes, Bantam Classics, Mystery, 1892, 18-02-2018, to-read
+9781594746031, Ransom Riggs, Miss Peregrine's Home for Peculiar Children, Quirk Books, Fantasy, 2011, 09-04-2018, to-read
+9780439023528, Suzanne Collins, The Hunger Games, Scholastic Press, Young Adult, 2008, 26-06-2019, read
+9780735224315, Celeste Ng, Little Fires Everywhere, Penguin Press, Fiction, 2017, 31-01-2022, to-read
+9780345535412, George R.R. Martin, A Clash of Kings, Bantam, Fantasy, 1998, 14-07-2020, read
+9781594634024, Paula Hawkins, The Girl on the Train, Riverhead Books, Thriller, 2015, 10-11-2017, read
+9781400078776, Kazuo Ishiguro, Never Let Me Go, Knopf, Science Fiction, 2005, 18-09-2021, to-read
+9780307743657, Stephen King, The Shining, Doubleday, Horror, 1977, 14-08-2022, to-read
+9780099496960, Joseph Heller, The Catch-22, Simon & Schuster, Satire, 1961, 23-05-2019, to-read
